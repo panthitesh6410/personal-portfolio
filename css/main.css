@@ -75,12 +75,13 @@
 }
 #one{
     color:#fff;
-    height: 750px;
+    height: 900px;
     /* background-color: #455871; */
 }
 #two{
+    margin-top: 2%;
     color:#fff;
-    height: 750px;
+    height: 1050px;
     /* background-color: #455871; */
 }
 #three{
@@ -98,6 +99,8 @@ section{
 }
 .container-fluid{
     background-color: #151e28;
+    width: 100%;
+    height: 100%;
 }
 .back{
     margin-left:20%;
@@ -124,4 +127,15 @@ hr{
     background: transparent;
     color: #fff;
     border: 1px solid #fff;
+}
+tr{
+    color: lightblue;
+}
+table img{
+    border-radius: 300px;
+}
+.connect img{
+    width:30px;
+    height:30px;
+    border-radius:300px;
 }
